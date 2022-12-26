@@ -1,0 +1,98 @@
+body{
+    background-color: aqua;
+    margin: 0px;
+}
+.parent{
+    width: 80vw;
+    height: 70vh;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    align-items: center;
+    display: flex;
+    
+  
+    background-color: antiquewhite;
+}
+.child-1{
+    padding: 10px;
+    box-sizing: border-box;
+ 
+    height: 70%;
+    width: 40%;
+    
+
+   
+    margin-left: 20px;
+
+    display: inline;
+  
+   
+
+
+
+
+}
+
+.tipbuttons button{
+    background-color: blue;
+    width: 70px;
+
+    height: 40px;
+
+}
+
+.right-card{
+    
+    width: 49%;
+    height: 70%;
+    background-color: rgb(7, 63, 7);
+    position: absolute;
+    left: 45%;
+    margin-bottom: 1%;
+
+}
+.head-1{
+    margin: 20px 0px 40px 20px;
+    
+}
+.tip-amount{
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+   
+    width: 50%;
+
+  
+    border: 2px solid white;
+}
+.total-amount{
+    margin-top: 20px;
+    margin-left: 100px;
+   
+    width: 50%;
+    height: 20px;
+   
+
+  
+    border: 2px solid white;
+}
+
+.reset{
+    width: 50%;
+    background: blueviolet;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: 100px;
+   
+    
+
+
+   
+   
+}
+
+
+
+
+    
